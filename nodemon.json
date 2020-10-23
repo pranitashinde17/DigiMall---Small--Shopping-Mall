@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGODB_USERNAME": "mystore-pra",
+        "MONGODB_PASSWORD": "mystore"
+    }
+}
